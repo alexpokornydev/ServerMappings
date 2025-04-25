@@ -1,0 +1,33 @@
+{
+    "id": "dragonexcz",
+    "name": "Dragonex.cz",
+    "website": "https://www.dragonex.cz",
+    "store": "https://store.dragonex.cz/",
+    "addresses": [
+        "dragonex.cz"
+    ],
+    "primaryAddress": "mc.dragonex.cz",
+    "primaryColor": "#e01c48",
+    "secondaryColor": "#000000",
+    "minecraftVersions": [
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21.1",
+    "crossplay": true,
+    "primaryRegion": "EU",
+    "regions": [
+        "AF",
+        "AS",
+        "EU",
+        "NA",
+        "OC",
+        "SA"
+    ],
+    "gameTypes": [
+        "Survival",
+        "Creative"
+    ],
+    "socials": {
+        "discord": "https://discord.dragonex.cz"
+    }
+}
